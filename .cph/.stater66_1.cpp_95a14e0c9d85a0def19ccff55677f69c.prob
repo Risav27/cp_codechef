@@ -1,0 +1,1 @@
+{"name":"Local: stater66_1","url":"d:\\AllCodes\\CompCoding\\stater66_1.cpp","tests":[{"id":1669216878416,"input":"3\n4\n3 7 6 4\n5\n1 4 5 4 1\n5\n1 2 3 4 5","output":"2\n0\n4"},{"id":1669220100140,"input":"1\n4\n3 7 6 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\AllCodes\\CompCoding\\stater66_1.cpp","group":"local","local":true}

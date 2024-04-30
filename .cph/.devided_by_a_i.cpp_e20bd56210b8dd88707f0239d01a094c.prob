@@ -1,0 +1,1 @@
+{"name":"Local: devided_by_a_i","url":"d:\\AllCodes\\CompCoding\\devided_by_a_i.cpp","tests":[{"id":1671633449673,"input":"2\n2\n1 2\n3\n2 2 2","output":"1 2\n1 1 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\AllCodes\\CompCoding\\devided_by_a_i.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: backcomb","url":"d:\\AllCodes\\CompCoding\\backcomb.cpp","tests":[{"id":1665569047942,"input":"3\n1 1 1\n1 0 1\n1 1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\AllCodes\\CompCoding\\backcomb.cpp","group":"local","local":true}
